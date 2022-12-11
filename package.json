@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "antd": "^3.26.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "include-media": "^1.4.9",
     "jsdom": "^15.2.1",
     "mysql2": "^2.0.2",
